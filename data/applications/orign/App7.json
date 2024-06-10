@@ -75,7 +75,7 @@
         {
             "id": 840,
             "name": "s9",
-            "cpu": 0,
+            "cpu": 5,
             "memory": 79,
             "storage": 150,
             "bandwidth": 17

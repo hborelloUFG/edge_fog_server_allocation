@@ -69,7 +69,7 @@
             "name": "s8",
             "cpu": 20,
             "memory": 121,
-            "storage": 0,
+            "storage": 3,
             "bandwidth": 17
         },
         {

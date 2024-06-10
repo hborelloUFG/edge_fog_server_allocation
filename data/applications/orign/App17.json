@@ -11,7 +11,7 @@
         {
             "id": 925,
             "name": "s1",
-            "cpu": 0,
+            "cpu": 8,
             "memory": 179,
             "storage": 72,
             "bandwidth": 16
@@ -181,7 +181,7 @@
             "name": "s22",
             "cpu": 244,
             "memory": 91,
-            "storage": 0,
+            "storage": 2,
             "bandwidth": 16
         }
     ],
